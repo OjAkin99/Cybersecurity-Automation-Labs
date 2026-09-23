@@ -1,0 +1,7 @@
+2026-09-18 14:00:01 - SUCCESS - User: admin - IP: 192.168.1.5
+2026-09-18 14:01:23 - FAILED - User: jsmith - IP: 203.0.113.50
+2026-09-18 14:01:25 - FAILED - User: jsmith - IP: 203.0.113.50
+2026-09-18 14:01:28 - FAILED - User: jsmith - IP: 203.0.113.50
+2026-09-18 14:01:30 - FAILED - User: jsmith - IP: 203.0.113.50
+2026-09-18 14:01:33 - FAILED - User: jsmith - IP: 203.0.113.50
+2026-09-18 14:05:12 - SUCCESS - User: mdoe - IP: 192.168.1.12
